@@ -8,6 +8,7 @@ This GitHub organization holds the source for the Association's working document
 
 - **[tmca-docs](https://github.com/turnberry-manor/tmca-docs)** — Source for the Amended and Restated Rules and Regulations (TMCA Restatement 2026), currently proposed and under Owner review pending Board adoption. Builds to DOCX, PDF, and AcroForm fillable PDFs.
 - **[tmca-site](https://github.com/turnberry-manor/tmca-site)** — Source for the public information website (Hugo, deploys to Cloudflare Pages).
+- **[tmca-administrative](https://github.com/turnberry-manor/tmca-administrative)** *(private)* — the Association's internal financial and governance records and analysis tooling (general ledgers, reserve projections, budget and reserve deliverables). Access is restricted to authorized Directors.
 
 ## Public information
 
