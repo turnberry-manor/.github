@@ -6,14 +6,14 @@ This GitHub organization holds the source for the Association's working document
 
 ## Repositories
 
-- **[tmca-docs](https://github.com/turnberry-manor/tmca-docs)** — Source for the Amended and Restated Rules and Regulations (TMCA Restatement 2026). Builds to DOCX, PDF, and AcroForm fillable PDFs.
+- **[tmca-docs](https://github.com/turnberry-manor/tmca-docs)** — Source for the Amended and Restated Rules and Regulations (TMCA Restatement 2026), currently proposed and under Owner review pending Board adoption. Builds to DOCX, PDF, and AcroForm fillable PDFs.
 - **[tmca-site](https://github.com/turnberry-manor/tmca-site)** — Source for the public information website (Hugo, deploys to Cloudflare Pages).
 
 ## Public information
 
 The Association's public information page is the authoritative source for prospective Owners, real estate agents, lenders, and appraisers. (URL to be added when the production domain is registered.)
 
-Current Owners reach the Association through the Management Company's resident portal.
+Current Owners reach the Association through the Management Company's resident portal — **RealManage** (CiraNet), at <https://resident.ciranet.com/>.
 
 ## Contact
 
